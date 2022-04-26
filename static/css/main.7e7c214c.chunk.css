@@ -1,0 +1,2 @@
+.pagination{list-style-type:none}.pagination li{display:inline-block;margin:3px}.pagination li button{padding:10px;background-color:#fff;cursor:pointer}.pagination li button:hover:not([disabled]){background-color:#d3d3d3}.pagination li button.active{background-color:silver;color:#000;font-weight:700}.pagination li span{padding:5px}body{font-family:Verdana,Geneva,Tahoma,sans-serif;text-align:center}label{display:inline-block;width:10%;text-align:right;margin:.2%}input{width:40%}
+/*# sourceMappingURL=main.7e7c214c.chunk.css.map */
